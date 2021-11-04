@@ -47,4 +47,4 @@ history = model.fit(X_train2, y_train2,
 
 ![image](https://github.com/7-RED/Introduction_to_Autotronics_System_Design/blob/master/圖片/4.PNG)
 
-`最後就計算Confusion Matrix`
+最後就計算Confusion Matrix，以及使用自己的照片去判斷準確值
